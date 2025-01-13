@@ -1,52 +1,52 @@
 [
    {
       "pais":"El Salvador",
-      "habitantes":6520123,
+      "habitantes":30,
       "ranking":1
    },
    {
       "pais":"Guatemala",
-      "habitantes":5565274,
+      "habitantes":28,
       "ranking":2
    },
    {
       "pais":"Honduras",
-      "habitantes":5412345,
+      "habitantes":25,
       "ranking":3
    },
    {
       "pais":"Panama",
-      "habitantes":5312345,
+      "habitantes":20,
       "ranking":4
    },
    {
       "pais":"Costa Rica",
-      "habitantes":5120125,
+      "habitantes":15,
       "ranking":5
    },
    {
       "pais":"Mexico",
-      "habitantes":3054652,
+      "habitantes":14,
       "ranking":6
    },
    {
       "pais":"Colombia",
-      "habitantes":2541334,
+      "habitantes":12,
       "ranking":7
    },
    {
       "pais":"Ecuador",
-      "habitantes":1215486,
+      "habitantes":106,
       "ranking":8
    },
    {
       "pais":"Argentina",
-      "habitantes":672257,
+      "habitantes":7,
       "ranking":9
    },
    {
       "pais":"España",
-      "habitantes":500000,
+      "habitantes":5,
       "ranking":10
    }
 ]
