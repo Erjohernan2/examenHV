@@ -1,0 +1,12 @@
+“nodes”: [ 
+{ “id”: “Martha”, ”group”: 1},
+{ “id”: “Ernesto Hernández”, ”group”: 1},
+{ “id”: “Camilia”, ”group”: 2},
+{ “id”: “Matematicas”, ”group”: 2},
+{ “id”: “Geometria”, ”group”: 2}
+],
+“links”: [ 
+{ “source”: “Martha”, ”target”: “Matematicas”, “value”: 20},
+{ “source”: “Martha”, ”target”: “Geometria”, “value”: 20}
+]
+}
